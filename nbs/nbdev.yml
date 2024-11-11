@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tets"
+  site-url: "https://RainPadjus.github.io/nbdev_tets"
+  description: "Testing nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/RainPadjus/nbdev_tets"
